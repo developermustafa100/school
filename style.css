@@ -1,0 +1,154 @@
+.container{
+    padding-bottom: 50px;
+}
+.main-banner{
+    background-color: #F0FFF0;
+    ;
+}
+.bg-body-tertiary{
+    background-color: #F0FFF0 !important ;
+}
+.menu-link{
+    margin: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.menu-link-other{
+    padding-top: 18px;
+}
+.sign-in{
+    background-color: #21B573 ;
+    padding: 12px 28px;
+    border-radius: 33px;
+    border: none;
+    color: white;
+}
+.illustration{
+    width: 554px;
+    height: 346;
+}
+.any-schedule{
+    color: #21B573;
+}
+.header-h6{
+    color: #FD511A;
+}
+.header-p{
+    color: #6C6B6B;
+}
+.get-start{
+    background-color: #21B573;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 33px;
+    border: none;
+}
+.topics{
+    background-color: #F8FFFB;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.topics:hover{
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.book{
+    height: 85px;
+    width: 66px;
+}
+.topic{
+    margin-top: 50px;
+    
+}
+.topics h4{
+    color: #413960;
+}
+.topics small{
+    color: #585859;
+}
+.online{
+    text-align: center;
+    color: #413960;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.course-img{
+    width: 315px;
+    height: 222px;
+}
+.course{
+    padding: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+.course h5{
+    color: #413960;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.course small{
+    color: #585859;
+}
+.buy-course{
+    padding: 8px 28px;
+    border-radius: 33px;
+    background-color: #21B573;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.calander{
+    width: 24px;
+    height: 24px;
+}
+.start-date{
+    color: #585859;
+}
+.testimonial{
+    margin-bottom: 70px;
+}
+.testimonial h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.man{
+    height: 120px;
+    width: 120px;
+}
+.test-p{
+    text-align: left;
+}
+.footer{
+    background-color: #282531;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    
+}
+.links{
+    text-decoration: none;
+    color: lightgray;
+}
+.links:hover{
+    text-decoration: underline;
+}
+.footer h6{
+    color: white;
+}
+.footer p{
+    color: lightgray;
+}
+.copy{
+    color: lightgray;
+    text-align: center;
+    margin-top: 40px;
+}
+    
